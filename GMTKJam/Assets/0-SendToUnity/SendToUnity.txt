@@ -1,0 +1,3 @@
+This is the folder where outside assets are exported to unity
+
+Assets should be immeadeatly moved out of this folder
